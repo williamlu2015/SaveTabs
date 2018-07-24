@@ -1,0 +1,28 @@
+.app-title--div {
+    background-color: black;
+    color: white;
+    font-size: 1.5rem;
+    text-align: center;
+}
+
+.form-inline {
+    flex-flow: row;
+}
+
+.main--div {
+    height: 200px;
+    margin-top: 8px;
+    width: 400px;
+}
+
+.tab-content {
+    padding: 16px;
+}
+
+#save--button {
+    margin-right: 16px;
+}
+
+#urls--textarea {
+    resize: none;
+}
