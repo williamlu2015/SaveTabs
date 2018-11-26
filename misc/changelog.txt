@@ -1,6 +1,3 @@
-WebStorm -> Preferences -> Languages & Frameworks -> JavaScript -> Libraries
-- Check "@types/chrome"
-
 Download the following stylesheets:
 - https://necolas.github.io/normalize.css/8.0.0/normalize.css
 - https://stackpath.bootstrapcdn.com/bootstrap/4.1.2/css/bootstrap.min.css
